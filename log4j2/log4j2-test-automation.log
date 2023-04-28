@@ -1,0 +1,1064 @@
+Payload: 
+"{\"username\":\"testusertest\",\"password\":\"B2dN*),d\"}"
+Response: 
+{
+  "token" : "******",
+  "userDetails" : {
+    "userId" : 14844,
+    "firstName" : null,
+    "lastName" : null,
+    "username" : "testusertest",
+    "password" : null,
+    "gender" : null,
+    "userTypeId" : 2
+  }
+}
+Response: 
+{
+  "token" : "******",
+  "userDetails" : {
+    "userId" : 14844,
+    "firstName" : null,
+    "lastName" : null,
+    "username" : "testusertest",
+    "password" : null,
+    "gender" : null,
+    "userTypeId" : 2
+  }
+}
+Payload: 
+{
+  "body" : null
+}
+Response: 
+{
+  "token" : "******",
+  "userDetails" : {
+    "userId" : 14844,
+    "firstName" : null,
+    "lastName" : null,
+    "username" : "testusertest",
+    "password" : null,
+    "gender" : null,
+    "userTypeId" : 2
+  }
+}
+Response: 
+{
+  "token" : "******",
+  "userDetails" : {
+    "userId" : 14844,
+    "firstName" : null,
+    "lastName" : null,
+    "username" : "testusertest",
+    "password" : null,
+    "gender" : null,
+    "userTypeId" : 2
+  }
+}
+Response: 
+{
+  "token" : "******",
+  "userDetails" : {
+    "userId" : 14844,
+    "firstName" : null,
+    "lastName" : null,
+    "username" : "testusertest",
+    "password" : null,
+    "gender" : null,
+    "userTypeId" : 2
+  }
+}
+Response: 
+{
+  "token" : "******",
+  "userDetails" : {
+    "userId" : 14844,
+    "firstName" : null,
+    "lastName" : null,
+    "username" : "testusertest",
+    "password" : null,
+    "gender" : null,
+    "userTypeId" : 2
+  }
+}
+Payload: 
+{
+  "username" : "testusertest",
+  "password" : "******"
+}
+Response: 
+{
+  "token" : "******",
+  "userDetails" : {
+    "userId" : 14844,
+    "firstName" : null,
+    "lastName" : null,
+    "username" : "testusertest",
+    "password" : null,
+    "gender" : null,
+    "userTypeId" : 2
+  }
+}
+Response: 
+{
+  "token" : "******",
+  "userDetails" : {
+    "userId" : 14844,
+    "firstName" : null,
+    "lastName" : null,
+    "username" : "testusertest",
+    "password" : null,
+    "gender" : null,
+    "userTypeId" : 2
+  }
+}
+Payload: 
+
+Response: 
+{
+  "token" : "******",
+  "userDetails" : {
+    "userId" : 14844,
+    "firstName" : null,
+    "lastName" : null,
+    "username" : "testusertest",
+    "password" : null,
+    "gender" : null,
+    "userTypeId" : 2
+  }
+}
+Payload: 
+{
+  "username" : "testusertest",
+  "password" : "******"
+}
+Response: 
+{
+  "token" : "******",
+  "userDetails" : {
+    "userId" : 14844,
+    "firstName" : null,
+    "lastName" : null,
+    "username" : "testusertest",
+    "password" : null,
+    "gender" : null,
+    "userTypeId" : 2
+  }
+}
+Payload: 
+{
+  "username" : "testusertest",
+  "password" : "******"
+}
+Response: 
+{
+  "token" : "******",
+  "userDetails" : {
+    "userId" : 14844,
+    "firstName" : null,
+    "lastName" : null,
+    "username" : "testusertest",
+    "password" : null,
+    "gender" : null,
+    "userTypeId" : 2
+  }
+}
+Payload: 
+{
+  "username" : "testusertest",
+  "password" : "******"
+}
+Response: 
+{
+  "token" : "******",
+  "userDetails" : {
+    "userId" : 14844,
+    "firstName" : null,
+    "lastName" : null,
+    "username" : "testusertest",
+    "password" : null,
+    "gender" : null,
+    "userTypeId" : 2
+  }
+}
+Payload: 
+{
+  "username" : "testusertest",
+  "password" : "******"
+}
+Response: 
+{
+  "token" : "******",
+  "userDetails" : {
+    "userId" : 14844,
+    "firstName" : null,
+    "lastName" : null,
+    "username" : "testusertest",
+    "password" : null,
+    "gender" : null,
+    "userTypeId" : 2
+  }
+}
+Payload: 
+{
+  "username" : "testusertest",
+  "password" : "******"
+}
+Response: 
+{
+  "token" : "******",
+  "userDetails" : {
+    "userId" : 14844,
+    "firstName" : null,
+    "lastName" : null,
+    "username" : "testusertest",
+    "password" : null,
+    "gender" : null,
+    "userTypeId" : 2
+  }
+}
+Payload: 
+{
+  "username" : "testusertest",
+  "password" : "******"
+}
+Response: 
+{
+  "token" : "******",
+  "userDetails" : {
+    "userId" : 14844,
+    "firstName" : null,
+    "lastName" : null,
+    "username" : "testusertest",
+    "password" : null,
+    "gender" : null,
+    "userTypeId" : 2
+  }
+}
+Payload: 
+{
+  "username" : "testusertest",
+  "password" : "******"
+}
+Response: 
+{
+  "token" : "******",
+  "userDetails" : {
+    "userId" : 14844,
+    "firstName" : null,
+    "lastName" : null,
+    "username" : "testusertest",
+    "password" : null,
+    "gender" : null,
+    "userTypeId" : 2
+  }
+}
+Payload: 
+{
+  "username" : "testusertest",
+  "password" : "******"
+}
+Response: 
+{
+  "token" : "******",
+  "userDetails" : {
+    "userId" : 14844,
+    "firstName" : null,
+    "lastName" : null,
+    "username" : "testusertest",
+    "password" : null,
+    "gender" : null,
+    "userTypeId" : 2
+  }
+}
+Payload: 
+{
+  "username" : "testusertest",
+  "password" : "******"
+}
+Response: 
+{
+  "token" : "******",
+  "userDetails" : {
+    "userId" : 14844,
+    "firstName" : null,
+    "lastName" : null,
+    "username" : "testusertest",
+    "password" : null,
+    "gender" : null,
+    "userTypeId" : 2
+  }
+}
+Payload: 
+{
+  "username" : "testusertest",
+  "password" : "******"
+}
+Response: 
+{
+  "token" : "******",
+  "userDetails" : {
+    "userId" : 14844,
+    "firstName" : null,
+    "lastName" : null,
+    "username" : "testusertest",
+    "password" : null,
+    "gender" : null,
+    "userTypeId" : 2
+  }
+}
+Payload: 
+{
+  "username" : "testusertest",
+  "password" : "******"
+}
+Response: 
+{
+  "token" : "******",
+  "userDetails" : {
+    "userId" : 14844,
+    "firstName" : null,
+    "lastName" : null,
+    "username" : "testusertest",
+    "password" : null,
+    "gender" : null,
+    "userTypeId" : 2
+  }
+}
+Payload: 
+{
+  "username" : "testusertest",
+  "password" : "******"
+}
+Response: 
+{
+  "token" : "******",
+  "userDetails" : {
+    "userId" : 14844,
+    "firstName" : null,
+    "lastName" : null,
+    "username" : "testusertest",
+    "password" : null,
+    "gender" : null,
+    "userTypeId" : 2
+  }
+}
+Payload: 
+{
+  "username" : "testusertest",
+  "password" : "******"
+}
+Response: 
+{
+  "token" : "******",
+  "userDetails" : {
+    "userId" : 14844,
+    "firstName" : null,
+    "lastName" : null,
+    "username" : "testusertest",
+    "password" : null,
+    "gender" : null,
+    "userTypeId" : 2
+  }
+}
+Response: 
+
+Response: 
+[ {
+  "book" : {
+    "bookId" : 3,
+    "title" : "HP3",
+    "author" : "JKR",
+    "category" : "Romance",
+    "price" : 213,
+    "coverFileName" : "c63ade52-3f90-41fa-980a-1136b6ad2128HP3.jpg"
+  },
+  "quantity" : 46
+} ]
+Payload: 
+{
+  "shoppingCart" : [ {
+    "book" : {
+      "bookId" : 3,
+      "title" : "HP3",
+      "author" : "JKR",
+      "category" : "Romance",
+      "price" : 213,
+      "coverFileName" : "c63ade52-3f90-41fa-980a-1136b6ad2128HP3.jpg"
+    },
+    "quantity" : 46
+  } ],
+  "cartTotal" : 213
+}
+Response: 
+
+Payload: 
+{
+  "username" : "testusertest",
+  "password" : "******"
+}
+Response: 
+{
+  "token" : "******",
+  "userDetails" : {
+    "userId" : 14844,
+    "firstName" : null,
+    "lastName" : null,
+    "username" : "testusertest",
+    "password" : null,
+    "gender" : null,
+    "userTypeId" : 2
+  }
+}
+Response: 
+
+Response: 
+[ {
+  "book" : {
+    "bookId" : 3,
+    "title" : "HP3",
+    "author" : "JKR",
+    "category" : "Romance",
+    "price" : 213,
+    "coverFileName" : "c63ade52-3f90-41fa-980a-1136b6ad2128HP3.jpg"
+  },
+  "quantity" : 47
+} ]
+Payload: 
+{
+  "shoppingCart" : [ {
+    "book" : {
+      "bookId" : 3,
+      "title" : "HP3",
+      "author" : "JKR",
+      "category" : "Romance",
+      "price" : 213,
+      "coverFileName" : "c63ade52-3f90-41fa-980a-1136b6ad2128HP3.jpg"
+    },
+    "quantity" : 47
+  } ],
+  "cartTotal" : 213
+}
+Response: 
+
+Payload: 
+{
+  "username" : "testusertest",
+  "password" : "******"
+}
+Response: 
+{
+  "token" : "******",
+  "userDetails" : {
+    "userId" : 14844,
+    "firstName" : null,
+    "lastName" : null,
+    "username" : "testusertest",
+    "password" : null,
+    "gender" : null,
+    "userTypeId" : 2
+  }
+}
+Response: 
+
+Response: 
+[ {
+  "book" : {
+    "bookId" : 3,
+    "title" : "HP3",
+    "author" : "JKR",
+    "category" : "Romance",
+    "price" : 213,
+    "coverFileName" : "c63ade52-3f90-41fa-980a-1136b6ad2128HP3.jpg"
+  },
+  "quantity" : 48
+} ]
+Payload: 
+{
+  "shoppingCart" : [ {
+    "book" : {
+      "bookId" : 3,
+      "title" : "HP3",
+      "author" : "JKR",
+      "category" : "Romance",
+      "price" : 213,
+      "coverFileName" : "c63ade52-3f90-41fa-980a-1136b6ad2128HP3.jpg"
+    },
+    "quantity" : 48
+  } ],
+  "cartTotal" : 213
+}
+Response: 
+
+Payload: 
+{
+  "username" : "testusertest",
+  "password" : "******"
+}
+Response: 
+{
+  "token" : "******",
+  "userDetails" : {
+    "userId" : 14844,
+    "firstName" : null,
+    "lastName" : null,
+    "username" : "testusertest",
+    "password" : null,
+    "gender" : null,
+    "userTypeId" : 2
+  }
+}
+Response: 
+
+Response: 
+[ {
+  "book" : {
+    "bookId" : 3,
+    "title" : "HP3",
+    "author" : "JKR",
+    "category" : "Romance",
+    "price" : 213,
+    "coverFileName" : "c63ade52-3f90-41fa-980a-1136b6ad2128HP3.jpg"
+  },
+  "quantity" : 49
+} ]
+Payload: 
+{
+  "shoppingCart" : [ {
+    "book" : {
+      "bookId" : 3,
+      "title" : "HP3",
+      "author" : "JKR",
+      "category" : "Romance",
+      "price" : 213,
+      "coverFileName" : "c63ade52-3f90-41fa-980a-1136b6ad2128HP3.jpg"
+    },
+    "quantity" : 49
+  } ],
+  "cartTotal" : 213
+}
+Response: 
+
+Payload: 
+{
+  "username" : "testusertest",
+  "password" : "******"
+}
+Response: 
+{
+  "token" : "******",
+  "userDetails" : {
+    "userId" : 14844,
+    "firstName" : null,
+    "lastName" : null,
+    "username" : "testusertest",
+    "password" : null,
+    "gender" : null,
+    "userTypeId" : 2
+  }
+}
+Response: 
+
+Response: 
+[ {
+  "book" : {
+    "bookId" : 3,
+    "title" : "HP3",
+    "author" : "JKR",
+    "category" : "Romance",
+    "price" : 213,
+    "coverFileName" : "c63ade52-3f90-41fa-980a-1136b6ad2128HP3.jpg"
+  },
+  "quantity" : 50
+} ]
+Payload: 
+{
+  "shoppingCart" : [ {
+    "book" : {
+      "bookId" : 3,
+      "title" : "HP3",
+      "author" : "JKR",
+      "category" : "Romance",
+      "price" : 213,
+      "coverFileName" : "c63ade52-3f90-41fa-980a-1136b6ad2128HP3.jpg"
+    },
+    "quantity" : 50
+  } ],
+  "cartTotal" : 213
+}
+Response: 
+
+Payload: 
+{
+  "username" : "testusertest",
+  "password" : "******"
+}
+Response: 
+{
+  "token" : "******",
+  "userDetails" : {
+    "userId" : 14844,
+    "firstName" : null,
+    "lastName" : null,
+    "username" : "testusertest",
+    "password" : null,
+    "gender" : null,
+    "userTypeId" : 2
+  }
+}
+Response: 
+
+Response: 
+[ {
+  "book" : {
+    "bookId" : 3,
+    "title" : "HP3",
+    "author" : "JKR",
+    "category" : "Romance",
+    "price" : 213,
+    "coverFileName" : "c63ade52-3f90-41fa-980a-1136b6ad2128HP3.jpg"
+  },
+  "quantity" : 51
+} ]
+Payload: 
+{
+  "shoppingCart" : [ {
+    "book" : {
+      "bookId" : 3,
+      "title" : "HP3",
+      "author" : "JKR",
+      "category" : "Romance",
+      "price" : 213,
+      "coverFileName" : "c63ade52-3f90-41fa-980a-1136b6ad2128HP3.jpg"
+    },
+    "quantity" : 51
+  } ],
+  "cartTotal" : 213
+}
+Response: 
+
+Payload: 
+{
+  "username" : "testusertest",
+  "password" : "******"
+}
+Response: 
+{
+  "token" : "******",
+  "userDetails" : {
+    "userId" : 14844,
+    "firstName" : null,
+    "lastName" : null,
+    "username" : "testusertest",
+    "password" : null,
+    "gender" : null,
+    "userTypeId" : 2
+  }
+}
+Response: 
+
+Response: 
+[ {
+  "book" : {
+    "bookId" : 3,
+    "title" : "HP3",
+    "author" : "JKR",
+    "category" : "Romance",
+    "price" : 213,
+    "coverFileName" : "c63ade52-3f90-41fa-980a-1136b6ad2128HP3.jpg"
+  },
+  "quantity" : 52
+} ]
+Payload: 
+{
+  "username" : "testusertest",
+  "password" : "******"
+}
+Response: 
+{
+  "token" : "******",
+  "userDetails" : {
+    "userId" : 14844,
+    "firstName" : null,
+    "lastName" : null,
+    "username" : "testusertest",
+    "password" : null,
+    "gender" : null,
+    "userTypeId" : 2
+  }
+}
+Response: 
+
+Response: 
+[ {
+  "book" : {
+    "bookId" : 3,
+    "title" : "HP3",
+    "author" : "JKR",
+    "category" : "Romance",
+    "price" : 213,
+    "coverFileName" : "c63ade52-3f90-41fa-980a-1136b6ad2128HP3.jpg"
+  },
+  "quantity" : 53
+} ]
+Payload: 
+{
+  "shoppingCart" : [ {
+    "book" : {
+      "bookId" : 3,
+      "title" : "HP3",
+      "author" : "JKR",
+      "category" : "Romance",
+      "price" : 213,
+      "coverFileName" : "c63ade52-3f90-41fa-980a-1136b6ad2128HP3.jpg"
+    },
+    "quantity" : 53
+  } ],
+  "cartTotal" : 213
+}
+Response: 
+
+Payload: 
+{
+  "username" : "testusertest",
+  "password" : "******"
+}
+Response: 
+{
+  "token" : "******",
+  "userDetails" : {
+    "userId" : 14844,
+    "firstName" : null,
+    "lastName" : null,
+    "username" : "testusertest",
+    "password" : null,
+    "gender" : null,
+    "userTypeId" : 2
+  }
+}
+Response: 
+
+Response: 
+[ {
+  "book" : {
+    "bookId" : 3,
+    "title" : "HP3",
+    "author" : "JKR",
+    "category" : "Romance",
+    "price" : 213,
+    "coverFileName" : "c63ade52-3f90-41fa-980a-1136b6ad2128HP3.jpg"
+  },
+  "quantity" : 54
+} ]
+Payload: 
+{
+  "shoppingCart" : [ {
+    "book" : {
+      "bookId" : 3,
+      "title" : "HP3",
+      "author" : "JKR",
+      "category" : "Romance",
+      "price" : 213,
+      "coverFileName" : "c63ade52-3f90-41fa-980a-1136b6ad2128HP3.jpg"
+    },
+    "quantity" : 54
+  } ],
+  "cartTotal" : 213
+}
+Response: 
+
+Payload: 
+{
+  "username" : "testusertest",
+  "password" : "******"
+}
+Response: 
+{
+  "token" : "******",
+  "userDetails" : {
+    "userId" : 14844,
+    "firstName" : null,
+    "lastName" : null,
+    "username" : "testusertest",
+    "password" : null,
+    "gender" : null,
+    "userTypeId" : 2
+  }
+}
+Response: 
+
+Response: 
+[ {
+  "book" : {
+    "bookId" : 3,
+    "title" : "HP3",
+    "author" : "JKR",
+    "category" : "Romance",
+    "price" : 213,
+    "coverFileName" : "c63ade52-3f90-41fa-980a-1136b6ad2128HP3.jpg"
+  },
+  "quantity" : 55
+} ]
+Payload: 
+{
+  "shoppingCart" : [ {
+    "book" : {
+      "bookId" : 3,
+      "title" : "HP3",
+      "author" : "JKR",
+      "category" : "Romance",
+      "price" : 213,
+      "coverFileName" : "c63ade52-3f90-41fa-980a-1136b6ad2128HP3.jpg"
+    },
+    "quantity" : 55
+  } ],
+  "cartTotal" : 213
+}
+Response: 
+
+Payload: 
+{
+  "username" : "testusertest",
+  "password" : "******"
+}
+Response: 
+{
+  "token" : "******",
+  "userDetails" : {
+    "userId" : 14844,
+    "firstName" : null,
+    "lastName" : null,
+    "username" : "testusertest",
+    "password" : null,
+    "gender" : null,
+    "userTypeId" : 2
+  }
+}
+Response: 
+
+Response: 
+[ {
+  "book" : {
+    "bookId" : 3,
+    "title" : "HP3",
+    "author" : "JKR",
+    "category" : "Romance",
+    "price" : 213,
+    "coverFileName" : "c63ade52-3f90-41fa-980a-1136b6ad2128HP3.jpg"
+  },
+  "quantity" : 56
+} ]
+Payload: 
+{
+  "shoppingCart" : [ {
+    "book" : {
+      "bookId" : 3,
+      "title" : "HP3",
+      "author" : "JKR",
+      "category" : "Romance",
+      "price" : 213,
+      "coverFileName" : "c63ade52-3f90-41fa-980a-1136b6ad2128HP3.jpg"
+    },
+    "quantity" : 56
+  } ],
+  "cartTotal" : 213
+}
+Response: 
+
+Payload: 
+{
+  "username" : "testusertest",
+  "password" : "******"
+}
+Response: 
+{
+  "token" : "******",
+  "userDetails" : {
+    "userId" : 14844,
+    "firstName" : null,
+    "lastName" : null,
+    "username" : "testusertest",
+    "password" : null,
+    "gender" : null,
+    "userTypeId" : 2
+  }
+}
+Response: 
+
+Response: 
+[ {
+  "book" : {
+    "bookId" : 3,
+    "title" : "HP3",
+    "author" : "JKR",
+    "category" : "Romance",
+    "price" : 213,
+    "coverFileName" : "c63ade52-3f90-41fa-980a-1136b6ad2128HP3.jpg"
+  },
+  "quantity" : 57
+} ]
+Payload: 
+{
+  "shoppingCart" : [ {
+    "book" : {
+      "bookId" : 3,
+      "title" : "HP3",
+      "author" : "JKR",
+      "category" : "Romance",
+      "price" : 213,
+      "coverFileName" : "c63ade52-3f90-41fa-980a-1136b6ad2128HP3.jpg"
+    },
+    "quantity" : 57
+  } ],
+  "cartTotal" : 213
+}
+Response: 
+
+Payload: 
+{
+  "username" : "testusertest",
+  "password" : "******"
+}
+Response: 
+{
+  "token" : "******",
+  "userDetails" : {
+    "userId" : 14844,
+    "firstName" : null,
+    "lastName" : null,
+    "username" : "testusertest",
+    "password" : null,
+    "gender" : null,
+    "userTypeId" : 2
+  }
+}
+Response: 
+
+Response: 
+[ {
+  "book" : {
+    "bookId" : 3,
+    "title" : "HP3",
+    "author" : "JKR",
+    "category" : "Romance",
+    "price" : 213,
+    "coverFileName" : "c63ade52-3f90-41fa-980a-1136b6ad2128HP3.jpg"
+  },
+  "quantity" : 58
+} ]
+Payload: 
+{
+  "shoppingCart" : [ {
+    "book" : {
+      "bookId" : 3,
+      "title" : "HP3",
+      "author" : "JKR",
+      "category" : "Romance",
+      "price" : 213,
+      "coverFileName" : "c63ade52-3f90-41fa-980a-1136b6ad2128HP3.jpg"
+    },
+    "quantity" : 58
+  } ],
+  "cartTotal" : 213
+}
+Response: 
+
+Payload: 
+{
+  "username" : "testusertest",
+  "password" : "******"
+}
+Response: 
+{
+  "token" : "******",
+  "userDetails" : {
+    "userId" : 14844,
+    "firstName" : null,
+    "lastName" : null,
+    "username" : "testusertest",
+    "password" : null,
+    "gender" : null,
+    "userTypeId" : 2
+  }
+}
+Response: 
+
+Response: 
+[ {
+  "book" : {
+    "bookId" : 3,
+    "title" : "HP3",
+    "author" : "JKR",
+    "category" : "Romance",
+    "price" : 213,
+    "coverFileName" : "c63ade52-3f90-41fa-980a-1136b6ad2128HP3.jpg"
+  },
+  "quantity" : 59
+} ]
+Payload: 
+{
+  "shoppingCart" : [ {
+    "book" : {
+      "bookId" : 3,
+      "title" : "HP3",
+      "author" : "JKR",
+      "category" : "Romance",
+      "price" : 213,
+      "coverFileName" : "c63ade52-3f90-41fa-980a-1136b6ad2128HP3.jpg"
+    },
+    "quantity" : 59
+  } ],
+  "cartTotal" : 213
+}
+Response: 
+
+Payload: 
+{
+  "username" : "testusertest",
+  "password" : "******"
+}
+Response: 
+{
+  "token" : "******",
+  "userDetails" : {
+    "userId" : 14844,
+    "firstName" : null,
+    "lastName" : null,
+    "username" : "testusertest",
+    "password" : null,
+    "gender" : null,
+    "userTypeId" : 2
+  }
+}
+Response: 
+
+Response: 
+[ {
+  "book" : {
+    "bookId" : 3,
+    "title" : "HP3",
+    "author" : "JKR",
+    "category" : "Romance",
+    "price" : 213,
+    "coverFileName" : "c63ade52-3f90-41fa-980a-1136b6ad2128HP3.jpg"
+  },
+  "quantity" : 60
+} ]
+Payload: 
+{
+  "shoppingCart" : [ {
+    "book" : {
+      "bookId" : 3,
+      "title" : "HP3",
+      "author" : "JKR",
+      "category" : "Romance",
+      "price" : 213,
+      "coverFileName" : "c63ade52-3f90-41fa-980a-1136b6ad2128HP3.jpg"
+    },
+    "quantity" : 60
+  } ],
+  "cartTotal" : 213
+}
+Response: 
+
