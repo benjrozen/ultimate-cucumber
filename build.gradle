@@ -1,0 +1,91 @@
+buildscript {
+    apply plugin: 'java-library'
+    apply plugin: 'idea'
+
+    ext {
+        project.ext.set('props', new Properties())
+    }
+}
+
+plugins {
+    id("io.freefair.lombok") version "8.0.1"
+
+}
+
+group 'com.benjrozen'
+version '1.0-SNAPSHOT'
+sourceCompatibility = JavaVersion.VERSION_11
+
+repositories {
+    mavenCentral()
+}
+
+// Test
+dependencies {
+    testImplementation 'junit:junit:4.13.1'
+
+    testImplementation 'org.junit.jupiter:junit-jupiter:5.9.0'
+    testImplementation 'com.google.inject:guice:5.1.0'
+    testImplementation 'com.github.javafaker:javafaker:1.0.2'
+}
+
+// Cucumber
+dependencies {
+    testImplementation 'io.cucumber:cucumber-java:6.9.1'
+    testImplementation 'io.cucumber:cucumber-junit:6.9.1'
+    testImplementation 'io.cucumber:cucumber-core:6.9.1'
+    testImplementation 'io.cucumber:cucumber-plugin:6.9.1'
+    testImplementation 'io.cucumber:cucumber-guice:6.9.1'
+}
+
+// Selenium
+dependencies {
+    testImplementation 'org.seleniumhq.selenium:selenium-java:3.141.59'
+    testImplementation "io.github.bonigarcia:webdrivermanager:5.3.2"
+}
+
+// Rest
+dependencies {
+    testImplementation 'io.rest-assured:rest-assured:4.4.0'
+    testImplementation 'com.fasterxml.jackson.core:jackson-databind:2.14.1'
+    testImplementation 'com.fasterxml.jackson.datatype:jackson-datatype-jsr310:2.14.1'
+
+}
+
+//Logging
+dependencies {
+    testImplementation 'org.apache.logging.log4j:log4j-core:2.19.0'
+    testImplementation 'org.apache.logging.log4j:log4j-api:2.19.0'
+    testImplementation 'org.slf4j:slf4j-nop:2.0.6'
+}
+
+
+test {
+    useJUnitPlatform()
+}
+
+compileJava {
+    options.compilerArgs << '-parameters'
+}
+
+configurations {
+    cucumberRuntime {
+        extendsFrom testImplementation
+    }
+}
+
+
+task runCucumber(type: JavaExec) {
+    File localPropertiesFile = new File('bookcartDemo.properties')
+    localPropertiesFile.withInputStream { project.props.load(it) }
+    systemProperties project.props
+    mainClass.set('io.cucumber.core.cli.Main')
+    classpath = configurations.cucumberRuntime + sourceSets.main.output + sourceSets.test.output
+    args = [
+            '--plugin', 'pretty',
+            '--plugin', 'junit:target/cucumber-report/results.xml',
+            '--glue', 'com/benjrozen/bookcartDemo',
+            'src/test/resources'
+    ]
+
+}
