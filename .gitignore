@@ -58,3 +58,5 @@ build/
 # Package Files #
 *.war
 *.ear
+
+*log4j*
