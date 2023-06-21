@@ -1,5 +1,5 @@
 # ultimate-cucumber
-My ideal framework for executing automated tessting - selenium &amp; http
+My ideal framework for executing automated testing - selenium &amp; http
 
 ## Usage:
 
