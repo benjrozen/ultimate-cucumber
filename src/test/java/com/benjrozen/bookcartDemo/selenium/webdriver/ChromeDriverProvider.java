@@ -8,7 +8,6 @@ import org.openqa.selenium.chrome.ChromeOptions;
 
 public class ChromeDriverProvider implements Provider<WebDriver> {
 
-
     public WebDriver get() {
         WebDriverManager.chromedriver().setup();
         return new ChromeDriver(chromeOptions());

@@ -33,7 +33,6 @@ public class OrderBookUiFlow {
         this.ordersPage = ordersPage;
     }
 
-
     @Given("the user is logged in")
     public void theUserHasLoggedIn() {
         loginPage.login(context.getBookcartBaseUrl(), context.getBookcartUsername(), context.getBookcartPassword());

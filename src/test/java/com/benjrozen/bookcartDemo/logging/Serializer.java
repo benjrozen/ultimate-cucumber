@@ -16,7 +16,6 @@ public class Serializer extends StdSerializer<String> {
 
     @Override
     public void serialize(String value, JsonGenerator gen, SerializerProvider provider) throws IOException {
-        // Masking data; for our example we are adding 'MASK'
         gen.writeString("******");
     }
 }
