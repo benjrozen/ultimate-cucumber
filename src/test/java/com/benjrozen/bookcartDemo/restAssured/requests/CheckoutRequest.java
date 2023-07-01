@@ -13,7 +13,6 @@ public class CheckoutRequest {
     ShoppingCartLine[] shoppingCart;
     int cartTotal;
 
-
     @Builder
     public CheckoutRequest(ShoppingCartLine[] shoppingCart) {
         this.shoppingCart = shoppingCart;

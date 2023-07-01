@@ -16,14 +16,11 @@ public class LoginPage extends BasePage {
     @FindBy(css = "[data-placeholder='Username']")
     public WebElement usernameInput;
 
-
     @FindBy(css = "[data-placeholder='Password']")
     public WebElement passwordInput;
 
-
     @FindBy(xpath = "//mat-card//*[text()='Login']")
     public WebElement loginButton;
-
 
     public void login(String baseUrl, String username, String password) {
         driver.get(baseUrl + "login");
@@ -31,5 +28,4 @@ public class LoginPage extends BasePage {
         passwordInput.sendKeys(password);
         loginButton.click();
     }
-
 }

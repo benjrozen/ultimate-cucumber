@@ -10,7 +10,6 @@ import lombok.val;
 
 public class OrderBookApiFlow {
 
-
     Context context;
     BookCartApiExecutor bookCartApiExecutor;
 
@@ -26,8 +25,6 @@ public class OrderBookApiFlow {
 
         context.setUserId(String.valueOf(loginResponse.getUserDetails().getUserId()));
     }
-
-
 
     @And("he adds bookId {string} to cart")
     public void addBookToCart(String bookId) {

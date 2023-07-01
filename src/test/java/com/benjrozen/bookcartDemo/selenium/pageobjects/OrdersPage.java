@@ -18,7 +18,6 @@ public class OrdersPage extends BasePage{
     @FindBy(xpath = "//simple-snack-bar//span[text()='Order placed successfully!!!']")
     public WebElement successfulOrderSnackbar;
 
-
     public void verifyOrderSuccess() {
         new WebDriverWait(driver, 20).until(ExpectedConditions.visibilityOf(successfulOrderSnackbar));
     }

@@ -8,14 +8,8 @@ public class BasePage {
 
     protected WebDriver driver;
 
-
     public BasePage(Provider<WebDriver> driver) {
         this.driver = driver.get();
         PageFactory.initElements(driver.get(), this);
     }
-
-
-
-
-
 }

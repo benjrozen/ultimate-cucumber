@@ -4,12 +4,9 @@ import com.fasterxml.jackson.databind.AnnotationIntrospector;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import com.fasterxml.jackson.databind.introspect.AnnotationIntrospectorPair;
 import com.google.inject.Provider;
-import io.restassured.config.Config;
-import io.restassured.config.ObjectMapperConfig;
 
 
 public class ObjectMappingProvider implements Provider<ObjectMapper> {
-
 
     public ObjectMapper get() {
         ObjectMapper mapper = new com.fasterxml.jackson.databind.ObjectMapper();
@@ -23,5 +20,4 @@ public class ObjectMappingProvider implements Provider<ObjectMapper> {
         mapper.setAnnotationIntrospectors(is1, is2);
         return mapper;
     }
-
 }

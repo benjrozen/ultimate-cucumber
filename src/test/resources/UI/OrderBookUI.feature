@@ -8,5 +8,3 @@ Feature: Order a book from https://bookcart.azurewebsites.net/
     When the user adds book "HP2" to cart from homepage
     And completes checkout flow
     Then he should be notified that the order was placed successfully
-
-

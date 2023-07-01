@@ -34,7 +34,6 @@ public class CheckoutPage extends BasePage{
 
     public void navigateToCheckout(String baseUrl) {
         driver.get(baseUrl + "checkout");
-
     }
 
     public void enterShippingDetailsAndCheckout(Faker faker) {
